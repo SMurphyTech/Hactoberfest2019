@@ -44,3 +44,8 @@ Hacktoberfest Classroom Project 2019
 ### Jose
 [josemorales7](https://github.com/josemorales7/)
 ---
+
+### Sean 
+[SMurphyTech](https://github.com/SMurphyTech/)
+> Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live
+---
